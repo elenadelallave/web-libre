@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 241, 241);
+    font-family: inherit;
+}
+
+h1 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-family: inherit;
+}
+
+a {
+    display: block;
+    width: 60px;
+    font-family: inherit;
+    font-weight: 700;
+    background-color: rgba(247, 227, 182, 0.918);
+    color: black;
+    text-align: center;
+}
